@@ -16,7 +16,7 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> 
-- 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in);
+- 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in)
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering from [GGSIPU](http://www.ipu.ac.in/)
 - 🌱 I’m currently learning <strong>React JS</strong>
 - 🔍 I’m looking to collaborate on <strong>Web Development Projects</strong>
