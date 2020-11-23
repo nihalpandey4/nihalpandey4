@@ -56,39 +56,3 @@
 <img src="https://img.shields.io/badge/nihalpandey4@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nihalpandey4@gmail.com">   <a  href="https://www.instagram.com/artistically_lazyy/"><img src="https://img.shields.io/badge/@artistically_lazyy_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/nihal-pandey-53ba6a187/"><img src="https://img.shields.io/badge/Nihal Pandey-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
-<!-- ### Top repositories
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Anime-Recommender-system">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Anime-Recommender-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Sentiment-analysis-Amazon-reviews">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=benroshan100&repo=Sentiment-analysis-Amazon-reviews&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />  
-</a>
-
-</p>
-
-<br />
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Time-Series-Analysis-Nifty50">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Time-Series-Analysis-Nifty50&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Customer-segmentation-via-K-means">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Customer-segmentation-via-K-means&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p> -->
-
