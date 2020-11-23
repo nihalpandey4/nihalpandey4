@@ -36,24 +36,19 @@
 <code><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"></code >
 
 
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-<code><img height="40" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" title="pandas"></code>
-<code><img height="40" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_logo_project_page_banner.png?itok=jaJeRlWs" title="numpy"></code>
-<code><img height="40" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png" title="seaborn"></code>
-<code><img height="40" src="https://assets.datacamp.com/production/repositories/4199/datasets/3bdb4c210f93c5735bfd31c2bbd7e290f94c4a2b/matplotlib_logo.png" title="matplotlib"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
-<code><img height="40" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" title="tensorflow"></code>
-<code><img height="40" src="https://img.stackshare.io/service/5601/keras.png" title="keras"></code> -->
 
-### GitHub Stats (Public Contributions  🧑‍💻)
+<a href="https://github.com/nihalpandey4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalpandey4&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/nihalpandey4">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalpandey4&show_icons=true&theme=light&line_height=27" alt="Nihal's github stats"/>
+</a>
+
+<!-- ### GitHub Stats (Public Contributions  🧑‍💻)
 
 <p align="center">
 <a href="https://github.com/nihalpandey4"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalpandey4&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ben's GitHub Stats"></a>
-</p> 
+</p>  -->
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
