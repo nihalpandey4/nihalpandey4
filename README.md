@@ -10,7 +10,9 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
 
 <em>
-  
+
+<hr/>
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> 
@@ -21,23 +23,39 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via nihalpandey4@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/10xlX4HqerRI-EgZ9JHeRZht-2NVcEmyX/view?usp=sharing) to get more info.
-<br/> 
+
+<br />
+
+<hr />
+
 </em>
 
-### Worked with
+<br />
+
+### My Arsenal: 🛠
 
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code >
 <code><img src="https://img.shields.io/badge/node%20-white.svg?&style=for-the-badge&logo=node.js&logoColor=green"></code>
+<code><img src="https://img.shields.io/badge/Express.js %20-%231572B6.svg?&style=for-the-badge&logo=&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   </code >
 <code><img src="https://img.shields.io/badge/redux%20-%23E34F26.svg?&style=for-the-badge&logo=redux&logoColor=white"></code >
 <code><img src="https://img.shields.io/badge/mongo db -white.svg?&style=for-the-badge&logo=mongodb&logoColor=green"></code>
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/Flask%20-white.svg?&style=for-the-badge&logo=flask&logoColor=green"></code>
+<code><img src = "https://img.shields.io/badge/-grey?style=for-the-badge&logo=c"></code> 
+<code><img src = "https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java"> </code>
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   </code >
 <code><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"></code >
+<code><img src = "https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=Jupyter"></code>
+<code><img src = "https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras"></code>
+<code><img src = "https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow"></code> 
+<code><img src = "https://img.shields.io/badge/numpy-orange?style=for-the-badge&logo=numpy"></code> 
+<code><img src = "https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"> </code>
+
+<hr />
 
 <br/>
 
@@ -51,9 +69,26 @@
 
 <br />
 
+<hr />
+
+<br />
+
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <img src="https://img.shields.io/badge/nihalpandey4@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="nihalpandey4@gmail.com">   <a  href="https://www.instagram.com/artistically_lazyy/"><img src="https://img.shields.io/badge/@artistically_lazyy_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/nihal-pandey-53ba6a187/"><img src="https://img.shields.io/badge/Nihal Pandey-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+<br />
+
+<hr />
+
+<br />
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 
 
 <!-- ### Top repositories
