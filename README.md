@@ -16,7 +16,7 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> 
-- 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in);
+- 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in)
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering from [GGSIPU](http://www.ipu.ac.in/)
 - 🌱 I’m currently learning <strong>React JS</strong>
 - 🔍 I’m looking to collaborate on <strong>Web Development Projects</strong>
@@ -90,40 +90,4 @@
 </div>
 
 
-
-<!-- ### Top repositories
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Anime-Recommender-system">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Anime-Recommender-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Sentiment-analysis-Amazon-reviews">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=benroshan100&repo=Sentiment-analysis-Amazon-reviews&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />  
-</a>
-
-</p>
-
-<br />
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Time-Series-Analysis-Nifty50">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Time-Series-Analysis-Nifty50&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Customer-segmentation-via-K-means">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Customer-segmentation-via-K-means&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p> -->
 
