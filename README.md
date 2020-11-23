@@ -27,14 +27,19 @@
 ### Worked with
 
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code >
+<code><img src="https://img.shields.io/badge/node%20-white.svg?&style=for-the-badge&logo=node.js&logoColor=green"></code>
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   </code >
+<code><img src="https://img.shields.io/badge/redux%20-%23E34F26.svg?&style=for-the-badge&logo=redux&logoColor=white"></code >
+<code><img src="https://img.shields.io/badge/mongo db -white.svg?&style=for-the-badge&logo=mongodb&logoColor=green"></code>
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   </code >
+<code><img src="https://img.shields.io/badge/Flask%20-white.svg?&style=for-the-badge&logo=flask&logoColor=green"></code>
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   </code >
 <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   </code >
 <code><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"></code >
 
+<br/>
 
 
 <a href="https://github.com/nihalpandey4">
@@ -44,11 +49,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalpandey4&show_icons=true&theme=light&line_height=27" alt="Nihal's github stats"/>
 </a>
 
-<!-- ### GitHub Stats (Public Contributions  🧑‍💻)
-
-<p align="center">
-<a href="https://github.com/nihalpandey4"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalpandey4&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ben's GitHub Stats"></a>
-</p>  -->
+<br />
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
