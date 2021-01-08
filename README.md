@@ -22,7 +22,7 @@
 - 🔍 I’m looking to collaborate on <strong>Web Development Projects</strong>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via nihalpandey4@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1bqRT4fCMtfozF7EBzvIVBmaDJGVCGFIq/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/12ZxhT6-wzyDH6093go6iTheDm86PpV4I/view?usp=sharing) to get more info.
 
 <br />
 
