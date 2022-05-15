@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nihalpandey4&style=flat-square)
 <p>
   <em>
-    A <b>Software Development Engineer currently working in Farmart, an Agri-Tech platform/b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
+    A <b>Software Development Engineer currently working in Farmart, an Agri-Tech platform </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
   </em>
  </p>
 
