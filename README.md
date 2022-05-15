@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nihalpandey4&style=flat-square)
 <p>
   <em>
-    A <b>final year B.Tech Student from GGSIPU</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
+    A <b>Software Development Engineer currently working in Farmart, an Agri-Tech platform/b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
   </em>
  </p>
 
@@ -15,7 +15,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> 
+- 🔭 I’m currently working as an <strong>Software Development Engineer at Farmart</strong> 
 - 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in)
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering from [GGSIPU](http://www.ipu.ac.in/)
 - 🌱 I’m currently learning <strong>React JS</strong>
