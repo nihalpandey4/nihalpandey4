@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nihalpandey4&style=flat-square)
 <p>
   <em>
-    A <b>Software Development Engineer currently working in Farmart, an Agri-Tech platform </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
+    A <b>Senior Software Engineer at Farmart, an Agri-Tech platform. I love solving complex problems, please contact me via my email, if need to discuss somethign </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Full Stack Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Delhi, India.
   </em>
  </p>
 
@@ -15,11 +15,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as an <strong>Software Development Engineer at Farmart</strong> 
-- 👨🏽‍💻 I worked as Front End intern at [Digi Maverick](https://digimaverick.in)
-- 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering from [GGSIPU](http://www.ipu.ac.in/)
-- 🌱 I’m currently learning <strong>React JS</strong>
-- 🔍 I’m looking to collaborate on <strong>Web Development Projects</strong>
+- 🔭 I’m currently working as an <strong>Senior Software Engineer at Farmart</strong> 
+- 💼 I have a Bachelor's degree in Computer Science Engineering from [GGSIPU](http://www.ipu.ac.in/)
+- 🌱 I’m currently learning <strong>Go-Lang</strong>
+- 🔍 I’m looking to collaborate on <strong>any Software Development Projects</strong>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via nihalpandey4@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1sWsVpDBG9ukM_jTULMQ2IqTJKr9ydcKS/view?usp=sharing) to get more info.
